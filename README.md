@@ -11,7 +11,7 @@
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+𝐑𝐚𝐛𝐛𝐢+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+𝐑𝐚𝐛𝐛𝐢+:+𝐑𝐄𝐅𝐔𝐓𝐄 𝐓𝐇𝐄 𝐅𝐈𝐀𝐒𝐂𝐎" alt="Typing SVG" /></a>
 
 
 
